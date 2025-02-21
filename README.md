@@ -1,2 +1,2 @@
 # Space-Recyclers
-Code Wiz game project
+Space Recyclers was a game created for the CodeWiz Winter Codeathon 2020-2021. This game had to be created in one month, from 12/15/20 to 1/15/21. The idea for this game was to enforce the topic of recycling. To make this game more interesting, a space theme was added. The main idea of the game was an astronaut who landed on a deserted planet, who then has to collect and recycle the boxes and cans on the planet. After doing this the astronaut can remake his ship to leave this planet, and return to his home planet. - Released Jan 10th, 2021
